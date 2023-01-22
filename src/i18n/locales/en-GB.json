@@ -1,0 +1,16 @@
+{
+  "header": {
+    "title": "Title",
+    "navigation": {
+      "blog": "Blog",
+      "contact": "Contact us"
+    }
+  },
+  "help_button": {
+    "cta": "Need help?",
+    "description": "You can contact us through the chat available on the bottom right corner."
+  },
+  "dashboard": {
+    "title": "Welcome to your dashboard!"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "header": {
+    "title": "Titre",
+    "navigation": {
+      "blog": "Blog",
+      "contact": "Nous contacter"
+    }
+  },
+  "help_button": {
+    "cta": "Besoin d'aide ?",
+    "description": "Vous pouvez nous contacter via le chat disponible en bas à droite de votre fenêtre."
+  },
+  "dashboard": {
+    "title": "Bienvenue sur votre tableau de bord !"
+  }
+}
